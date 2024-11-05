@@ -1,0 +1,15 @@
+h1{
+  text-align: center;
+  color: navy
+}
+table{
+  background: blue;
+  color:yellow;
+  border-color: red;
+}
+th{
+  color:black
+}
+body{
+  background-color: green
+}
